@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int missingNumber(vector<int>& nums) {
+    int ans=0;
+    for(int i=0;i<nums.size();i++) {
+        ans^=(i+1);
+        ans^=nums[i];
+    }
+    return ans;
+}
+
+int main() {
+    int n;
+    cin>>n;
+    vector<int> v(n);
+    for(int i=0;i<n;i++) {
+        cin>>v[i];
+    }
+    cout<<missingNumber(v)<<endl;
+    return 0; 
+}

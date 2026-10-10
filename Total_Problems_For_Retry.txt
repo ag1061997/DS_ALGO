@@ -1,0 +1,118 @@
+################################### Array ##########################
+
+=> BASIC: 1. Majority_Elements_2
+          2. Increasing_Triplet_Subsequence
+          3. Next_Permutation
+
+=> Kadane_Algorithm: 1. Maximum_Sum_Circular_Subarray
+
+=> Prefix_Sum: 1. Maximum_Population_Year
+               2. Subarray_Sum_Equal_k
+               3. Subarray_Sums_Divisible_By_k
+
+=> Sliding_Window_Dynamic_Size: 1. Longest_repeating_Character_replacement
+
+=> Sliding_Window_Fixed_Size: 1. Retry/Find_All_Anagrams_In_A_String
+
+=> Two_Pointers: 1. 3_Sum
+                 2. Backspace_String_Compare
+
+
+############################## Backtracking ##########################
+
+
+############################ Binary_BST_Tree #########################
+
+=> BST_Ordered_Set: 1. My_Calender_1
+
+=> Tree_Traversal_Level_Order: 1. Maximum_Width_Of_Binary_Tree
+
+
+############################ Binary_Search ###########################
+
+
+########################### Bit_Manipulation #########################
+
+=> BASIC: 1. Hamming_Distance
+          2. Set_Mismatch
+          3. Single_Number_3
+
+
+################################### DP ################################
+
+=> 1_D_DP: 1. Climbing_Stairs
+           2. House_Robber_2
+           3. Min_Cost_Climbing_Stairs
+
+
+################################# Graph ################################
+
+=> Breadth_First_Search: 1. O_1_Matrix
+                         2. Open_The_Lock
+
+=> Depth_First_Search: 1. Word_Search
+
+=> Shortest_Path: 1. Network_Delay_Time
+
+=> Topological_Sort: 1. Course_Schedule_2
+                     2. Course_Schedule_4
+
+=> Union_Find: 1. No_Of_Connected_Components
+
+
+################################# Greedy ################################
+
+=> BASIC: 1. Jump_Game_2
+          2. Jump_Game
+
+
+############################### Hash_Tables ##############################
+
+=> BASIC: 1. Design_Hashmap
+          2. Group_Anagrams
+          3. Longest_Consecutive_Sequence
+
+
+################################# Heaps ###################################
+
+=> Top_K_Elements: 1. Top_K_Frequent_Elements
+
+
+############################### Linked_List ###############################
+
+=> BASIC: 1. Intersection_Of_Two_Linked_Lists
+
+=> Fast_And_Slow_Pointers: 1. Happy_Number
+                           2. Linked_List_Cycle_2
+
+
+############################### Math_Geometry ##############################
+
+
+################################### Queues #################################
+
+
+################################### Sorting ################################
+
+
+################################### Stacks #################################
+
+=> BASIC: 1. Basic_Calculator_2
+
+=> Monotonic_Stack: 1. 132_Pattern
+                    2. Next_Greater_Element_1
+
+
+################################### Strings #################################
+
+=> BASIC: 1. Determine_If_Two_String_Close
+          2. Find_Index_Of_First_Occurence_in_String
+          3. Length_Of_Last_Word
+          4. Reverse_Words_In_A_String
+
+=> String_Matching: 1. Repeated_Substring_Pattern
+
+
+##################################### Tries #################################
+
+=> BASIC: 1. Implement_Trie

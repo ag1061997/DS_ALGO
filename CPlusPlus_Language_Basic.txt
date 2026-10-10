@@ -1,0 +1,106 @@
+vector<vector<int> > v(n,vector<int>(m,0));
+v.push_back() O(1)
+v.pop_back()  O(1)
+v.size()   O(1)
+v.empty()  O(1)
+
+
+map<int,int> mp;
+mp.size()      O(1)
+mp.erase()     O(1)  
+mp.find()      O(logn)
+mp.begin()     O(1)
+mp.end()       O(1)
+mp.clear()     O(n)
+
+unordered_map<int,int> mp;
+mp.size()      O(1)
+mp.erase()     O(1)  avg , O(n) worst
+mp.find()      O(1) avg , O(n) worst
+mp.begin()     O(1)
+mp.end()       O(1)
+mp.clear()     O(n)
+
+set<int> mp;
+mp.size()      O(1)
+mp.erase()     O(1)  
+mp.find()      O(logn)
+mp.begin()     O(1)
+mp.end()       O(1)
+mp.clear()     O(n)
+mp.insert()    O(logn)
+
+unordered_set<int> mp;
+mp.size()      O(1)
+mp.erase()     O(1)  avg , O(n) worst
+mp.find()      O(1) avg , O(n) worst
+mp.begin()     O(1)
+mp.end()       O(1)
+mp.clear()     O(n)
+mp.insert()    O(1)  avg , O(n) worst
+
+string s;
+s.size()        O(1)
+s.push_back()   O(1)
+s.pop_back()    O(1)
+s.empty()       O(1)
+
+
+class ListNode {
+    public:
+        int val;
+        ListNode* next;
+        ListNode(int x) {
+            val=x;
+            this->next=nullptr;
+        }
+};
+
+ListNode* h=new ListNode(2);
+
+stack<int> st;
+st.empty()  O(1)
+st.top()    O(1)
+st.push()   O(1)
+st.pop()    O(1)
+st.size()   O(1)
+
+
+queue<int> q;
+q.empty()    O(1)
+q.front()    O(1)
+q.push()     O(1)
+q.pop()      O(1)
+q.size()     O(1)
+
+
+deque<int> q;
+q.empty()    O(1)
+q.front()    O(1)
+q.insert()     O(1)
+q.pop()      O(1)
+q.size()     O(1)
+
+priority_queue<int> pq;     // Max heap
+pq.empty()    O(1)
+pq.top()    O(1)
+pq.push()     O(logn)
+pq.pop()      O(logn)
+pq.size()     O(1)
+
+priority_queue<int, vector<int>, greater<int> > pq;  // Min heap
+
+
+class TreeNode {
+    public:
+        int val;
+        TreeNode* left;
+        TreeNode* right;
+        TreeNode(int x) {
+            val=x;
+            left=nullptr;
+            right=nullptr;
+        }
+};
+
+TreeNode* root=new TreeNode(2);
