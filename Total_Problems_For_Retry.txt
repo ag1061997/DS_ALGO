@@ -12,7 +12,7 @@
 
 => Sliding_Window_Dynamic_Size: 1. Longest_repeating_Character_replacement
 
-=> Sliding_Window_Fixed_Size: 1. Retry/Find_All_Anagrams_In_A_String
+=> Sliding_Window_Fixed_Size: 1. Find_All_Anagrams_In_A_String
 
 => Two_Pointers: 1. 3_Sum
                  2. Backspace_String_Compare
@@ -98,6 +98,7 @@
 ################################### Stacks #################################
 
 => BASIC: 1. Basic_Calculator_2
+          2. Validate_Stack_Sequence
 
 => Monotonic_Stack: 1. 132_Pattern
                     2. Next_Greater_Element_1
