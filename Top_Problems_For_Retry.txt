@@ -1,0 +1,28 @@
+################################### DP ################################
+
+=> 1_D_DP: 1. Climbing_Stairs
+
+
+################################### Array #############################
+
+=> Two_Pointers: 1. 3_Sum
+
+=> BASIC: 1. Next_Permutation
+
+=> Prefix_Sum: 1. Subarray_Sum_Equal_k
+
+
+############################### Hash_Tables ##############################
+
+=> BASIC: 1. Group_Anagrams
+          2. Longest_Consecutive_Sequence
+
+
+################################### Stacks #################################
+
+=> BASIC: 1. Basic_Calculator_2
+
+
+################################# Heaps ###################################
+
+=> Top_K_Elements: 1. Top_K_Frequent_Elements
