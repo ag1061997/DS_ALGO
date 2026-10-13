@@ -26,3 +26,13 @@
 ################################# Heaps ###################################
 
 => Top_K_Elements: 1. Top_K_Frequent_Elements
+
+
+################################### Sorting ################################
+
+=> Quick_Sort: 1. Kth_Largest_Element_In_Array
+
+
+############################ Binary_Search ###########################
+
+=> BASIC: 1. Random_Pick_With_Weight

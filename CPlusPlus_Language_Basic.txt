@@ -1,3 +1,6 @@
+C++ compile command: g++ -std=c++11 Letter_Combination_Of_Phone_Number.cpp -o a 
+C++ run command: ./a
+
 vector<vector<int> > v(n,vector<int>(m,0));
 v.push_back() O(1)
 v.pop_back()  O(1)
