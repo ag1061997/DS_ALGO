@@ -36,3 +36,4 @@
 ############################ Binary_Search ###########################
 
 => BASIC: 1. Random_Pick_With_Weight
+          2. Median_Of_Two_Sorted_Arrays
