@@ -2,6 +2,10 @@
 
 => 1_D_DP: 1. Climbing_Stairs
 
+=> 2D_Grid_DP: 1. Unique_Paths
+
+=> Unbounded_Knapsack: 1. Coin_Change
+
 
 ################################### Array #############################
 

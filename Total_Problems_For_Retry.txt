@@ -47,6 +47,10 @@
            2. House_Robber_2
            3. Min_Cost_Climbing_Stairs
 
+=> 2D_Grid_DP: 1. Unique_Paths
+
+=> Unbounded_Knapsack: 1. Coin_Change
+
 
 ################################# Graph ################################
 
